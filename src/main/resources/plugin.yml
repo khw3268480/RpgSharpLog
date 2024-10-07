@@ -1,0 +1,6 @@
+name: RpgSharpLog
+version: '1.0-SNAPSHOT'
+main: org.dople.rpgSharpLog.RpgSharpLog
+api-version: '1.19'
+depend:
+  - RpgSharp
